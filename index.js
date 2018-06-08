@@ -27,3 +27,13 @@ lowercase.toLowerCase() === lowercase
 return lowercase
 
 }
+
+
+function sayHiToGrandma(string) {
+  
+var uppercase = "YES INDEED!" 
+  
+uppercase.toUpperCase() === uppercase
+  
+return uppercase
+}

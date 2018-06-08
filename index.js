@@ -31,7 +31,7 @@ return lowercase
 
 function sayHiToGrandma(string) {
   
-var uppercase = "I can't hear you!" 
+var uppercase = "YES INDEED!" 
   
 uppercase.toUpperCase() === uppercase
   
